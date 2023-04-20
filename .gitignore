@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+venv
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# PyCharm files
+.idea/
+
+# VSCode files
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
