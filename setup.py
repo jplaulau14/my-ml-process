@@ -7,7 +7,7 @@ setup(
     author="John Patrick Laurel",
     author_email="prod.patricklaurel@gmail.com",
     url="https://github.com/jplaulau14/my-ml-process",
-    packages=find_packages(include=["project"]),
+    packages=find_packages(include=["src"]),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

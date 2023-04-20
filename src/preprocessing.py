@@ -8,7 +8,7 @@ import logging
 import sys
 import os
 import datetime
-from project.paths import get_data_path
+from src.paths import get_data_path
 
 def rename_columns(df: pd.DataFrame, col_map: Optional[Dict[str, str]] = None) -> pd.DataFrame:
     """
