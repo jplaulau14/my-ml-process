@@ -17,7 +17,10 @@ setup(
         "pandas",
         "numpy",
         "scikit-learn",
-        "imblearn"
+        "imblearn",
+        "matplotlib",
+        "seaborn",
+        "plotly",
     ],
     python_requires='>=3.6',
 )
